@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/IbyA1-oy)
+# 切版作業   
+## 使用套件  
+1. anime.js  
+2. gsap.js  
+3. swiper.js  
+## 使用位置  
+### Swiper.js  
+1. #swiper01 
+2. #section09  
+3. #section10  
+### anime.js  
+1. #section03  
+### swiper.js  
+1. #section04  
